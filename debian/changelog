@@ -1,0 +1,64 @@
+ros-indigo-husky-control (0.2.3-0saucy) saucy; urgency=high
+
+
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Wed, 08 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.2-0saucy) saucy; urgency=high
+
+  * Fix package urls
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.1-0saucy) saucy; urgency=high
+
+  * Update control params with base_link
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.0-0saucy) saucy; urgency=high
+
+  * Add UR5 arm simulation control config
+  * Contributors: Paul Bovbel, Devon Ash
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.0.4-0saucy) saucy; urgency=high
+
+  * Namespace fixes
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Thu, 12 Feb 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.3-0saucy) saucy; urgency=high
+
+  * Update website
+  * Add author
+  * Get rid of chassis_link, switch to base_footprint and base_link
+  * Turn on 2d mode; future proof robot_localization parameters
+  * Refactor configuration files into modules
+  * Re-enable IMU orientation fusion
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Fri, 06 Feb 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.2-0saucy) saucy; urgency=high
+
+  * Use odom position for ekf
+  * Update wheel separation multiplier for slippage
+  * Restore teleop twist joy
+  * Set 2D mode, and add move_base cmd channel
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Fri, 16 Jan 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.1-0saucy) saucy; urgency=high
+
+  * Initial development of husky_control for Husky indigo release
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 12 Jan 2015 05:00:00 -0000
+
+
