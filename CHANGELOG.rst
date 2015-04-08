@@ -2,6 +2,11 @@
 Changelog for package husky_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2015-04-08)
+------------------
+* Increase inflation radius
+* Contributors: Paul Bovbel
+
 0.2.2 (2015-03-23)
 ------------------
 * Fix package urls
