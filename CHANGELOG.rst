@@ -2,6 +2,12 @@
 Changelog for package husky_ur5_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2015-07-08)
+------------------
+* Commented out roslaunch check
+* Fix unstable tests
+* Contributors: TheDash
+
 0.2.5 (2015-04-16)
 ------------------
 
