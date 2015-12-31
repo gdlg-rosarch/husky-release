@@ -1,0 +1,94 @@
+ros-indigo-husky-control (0.2.7-0trusty) trusty; urgency=high
+
+  * Update localization.yaml
+  * Update localization.yaml
+  * Remapping the move_base topic to be compatible with cpr autonomy core.
+  * Contributors: Peiyi Chen, Tom Moore
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Thu, 31 Dec 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.2.6-0trusty) trusty; urgency=high
+
+  * Added angular_scale_turbo to teleop.config.
+  * Move interactive marker launch from teleop into control launch file
+  * Added fix for ur5 arm in gazebo
+  * Contributors: Paul Bovbel, Devon Ash, Tony Baltovski
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Wed, 08 Jul 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.5-0trusty) trusty; urgency=high
+
+
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Thu, 16 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.4-0trusty) trusty; urgency=high
+
+
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 13 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.3-0trusty) trusty; urgency=high
+
+
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Wed, 08 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.2-0trusty) trusty; urgency=high
+
+  * Fix package urls
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.1-0trusty) trusty; urgency=high
+
+  * Update control params with base_link
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.2.0-0trusty) trusty; urgency=high
+
+  * Add UR5 arm simulation control config
+  * Contributors: Paul Bovbel, Devon Ash
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-control (0.0.4-0trusty) trusty; urgency=high
+
+  * Namespace fixes
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Thu, 12 Feb 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.3-0trusty) trusty; urgency=high
+
+  * Update website
+  * Add author
+  * Get rid of chassis_link, switch to base_footprint and base_link
+  * Turn on 2d mode; future proof robot_localization parameters
+  * Refactor configuration files into modules
+  * Re-enable IMU orientation fusion
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Fri, 06 Feb 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.2-0trusty) trusty; urgency=high
+
+  * Use odom position for ekf
+  * Update wheel separation multiplier for slippage
+  * Restore teleop twist joy
+  * Set 2D mode, and add move_base cmd channel
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Fri, 16 Jan 2015 05:00:00 -0000
+
+ros-indigo-husky-control (0.0.1-0trusty) trusty; urgency=high
+
+  * Initial development of husky_control for Husky indigo release
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 12 Jan 2015 05:00:00 -0000
+
+
