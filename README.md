@@ -1,3 +1,31 @@
+## husky (indigo) - 0.2.8-0
+
+The packages in the `husky` repository were released into the `indigo` distro by running `/usr/bin/bloom-release husky -t indigo -r indigo` on `Thu, 12 Apr 2018 03:16:24 -0000`
+
+These packages were released:
+- `husky_control`
+- `husky_description`
+- `husky_msgs`
+- `husky_navigation`
+- `husky_ur5_moveit_config`
+
+Version of package(s) in repository `husky`:
+
+- upstream repository: https://github.com/husky/husky.git
+- release repository: https://github.com/clearpath-gbp/husky-release.git
+- rosdistro version: `0.2.7-0`
+- old version: `0.2.7-0`
+- new version: `0.2.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## husky (indigo) - 0.2.7-0
 
 The packages in the `husky` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo husky` on `Thu, 31 Dec 2015 13:30:32 -0000`
