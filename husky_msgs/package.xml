@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>husky_msgs</name>
-  <version>0.2.7</version>
+  <version>0.2.8</version>
   <description>Messages for Clearpath Husky</description>
 
   <author email="pbovbel@clearpathrobotics.com">Paul Bovbel</author>
@@ -12,7 +12,7 @@
 
   <url type="website">http://ros.org/wiki/husky_msgs</url>
   <url type="bugtracker">https://github.com/husky/husky/issues</url>
-  <url type="repository">https://github.com/husly/husky</url>
+  <url type="repository">https://github.com/husky/husky</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>message_generation</build_depend>
