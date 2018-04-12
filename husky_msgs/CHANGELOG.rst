@@ -2,10 +2,13 @@
 Changelog for package husky_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.8 (2018-04-11)
+0.3.0 (2018-04-11)
 ------------------
+* Updated all package versions to 0.2.6.
 * Fixed typo in URLs.
-* Contributors: Tony Baltovski
+* Remove defunct email address
+* Updated maintainers.
+* Contributors: Paul Bovbel, Tony Baltovski
 
 0.2.7 (2015-12-31)
 ------------------

@@ -2,17 +2,23 @@
 Changelog for package husky_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.8 (2018-04-11)
+0.3.0 (2018-04-11)
 ------------------
+* Updated all package versions to 0.2.6.
 * Added a large top plate (used for waterproofing upgrade and UR5 upgrade) and an environment variable for controlling it HUSKY_LARGE_TOP_PLATE
-* Moved URDF_EXTRAS into the macro where it belongs
-* Added environment variables to enabled or disabled the bumpers and the user rail
-* Added urdf_extras so husky is consistent to our other platforms
-* Changed the wheel radius to reflect 13 inch outdoor Husky tire
-* [husky_description] Updated intertial parameters.
+* changed Husky wheel radius, a Husky outdoor tire is 13 inchs (0.3302m)
+* [husky_description] Updated inertial parameters.
+* [husky_description] Fixed depreciated syntax.
+* Remove defunct email address
+* Updated maintainers.
+* Changes for xacro updates in kinetic.
+* Add interface definitions
+* Purge more UR; Implement urdf_extras
+* Update URDF for multirobot
+* Move packages into monorepo for kinetic; strip out ur packages
 * wheel.urdf.xacro: swap iyy, izz inertias
   Fixes `#34 <https://github.com/husky/husky/issues/34>`_.
-* Contributors: Dave Niewinski, Martin Cote, Steven Peters, Tony Baltovski
+* Contributors: Dave Niewinski, Martin Cote, Paul Bovbel, Steven Peters, Tony Baltovski
 
 0.2.7 (2015-12-31)
 ------------------
