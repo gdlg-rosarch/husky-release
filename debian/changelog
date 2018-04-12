@@ -1,0 +1,71 @@
+ros-indigo-husky-ur5-moveit-config (0.2.8-0trusty) trusty; urgency=high
+
+  * Fixed typo in URLs.
+  * Removed old controllers.yaml
+  * Added dependency fixes and synergy between dualur5 config files
+  * Added pading to the robot so the real robot doesn't fail
+  * This package depends on ur_kinematics
+  * added dependencies on these moveit packages
+  * created .setup_assistant, needed to run moveit assitant
+  * Contributors: Dash, Ilia Baranov, TheDash, Tony Baltovski
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 11 Apr 2018 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.7-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 31 Dec 2015 05:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.6-0trusty) trusty; urgency=high
+
+  * Commented out roslaunch check
+  * Fix unstable tests
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 08 Jul 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.5-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 16 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.4-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 13 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.3-0trusty) trusty; urgency=high
+
+  * Added collisions so the robot can plan
+  * Contributors: TheDash
+  * Added collisions so the robot can plan
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 08 Apr 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.2-0trusty) trusty; urgency=high
+
+  * Fix package urls
+  * Add roslaunch build dependency
+  * Contributors: Paul Bovbel
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.1-0trusty) trusty; urgency=high
+
+  * remove temp files
+  * Contributors: Paul Bovbel
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+ros-indigo-husky-ur5-moveit-config (0.2.0-0trusty) trusty; urgency=high
+
+  * Initial release
+  * Contributors: Devon Ash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 23 Mar 2015 04:00:00 -0000
+
+
