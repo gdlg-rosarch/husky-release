@@ -2,6 +2,11 @@
 Changelog for package husky_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.8 (2018-04-11)
+------------------
+* Fixed typo in URLs.
+* Contributors: Tony Baltovski
+
 0.2.7 (2015-12-31)
 ------------------
 * Removed move_base topic remap so it publishes to just cmd_vel to avoid confusion.
